@@ -5,9 +5,10 @@ subject: 'cat:cs.* OR cat:cs.CV'
 keywords:
         kaggle: 1
         topology: 3
-        NN: 3
-        GAN: 1
+        NN: 2
+        GAN: 2
         topoloogy optimization: 3
+        machine learnig: 1
 
 # 通知の閾値
 score_threshold: 0
