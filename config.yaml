@@ -4,7 +4,6 @@ subject: 'cat:cs.* OR cat:math.oc'
 # 検索キーワード
 keywords:
         kaggle: 1
-        topology: 3
         NN: 2
         GAN: 2
         topoloogy optimization: 3
