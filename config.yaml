@@ -4,10 +4,12 @@ subject: 'cat:cs.* OR cat:math.oc'
 # 検索キーワード
 keywords:
         kaggle: 1
-        NN: 2
-        GAN: 2
+        NN: 1
+        GAN: 1
         topoloogy optimization: 3
+        topology design: 3
+        deep learning: 2
         machine learnig: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
