@@ -3,7 +3,6 @@ subject: 'cat:cs.* OR cat:math.oc'
 
 # 検索キーワード
 keywords:
-        kaggle: 1
         Neural network: 1
         GAN: 1
         CNN: 1
@@ -11,9 +10,9 @@ keywords:
         topology design: 2
         deep learning: 1
         machine learnig: 1
-        data driven: 1
+        data driven: 2
         Topology Optimization: 2
         Deep Learning: 1
 
 # 通知の閾値
-score_threshold: 2
+score_threshold: 1
