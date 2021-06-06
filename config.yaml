@@ -6,11 +6,11 @@ keywords:
         kaggle: 1
         Neural network: 1
         GAN: 1
-        topoloogy optimization: 3
-        topology design: 3
+        topoloogy optimization: 2
+        topology design: 2
         deep learning: 1
         machine learnig: 1
         data driven: 1
 
 # 通知の閾値
-score_threshold: 3
+score_threshold: 2
